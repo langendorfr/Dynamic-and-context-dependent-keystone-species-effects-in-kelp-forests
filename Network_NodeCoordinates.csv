@@ -1,0 +1,43 @@
+﻿ID,Location,Name,Name_Scientific,Name_Data,Group,Color,X_coord,Y_coord,X_coord_REL,Y_coord_REL,X_coord_old,Y_coord_old
+H1,BC,Abalone,Abalone,ABALONE ,Herbivores,#fdd68a,205,-435,-5,5,-10,-0.2
+H5,SN,Abalone,Haliotis,abalone,Herbivores,#fdd68a,205,-435,-5,5,999,999
+A2,BC,Acid Kelp,Desmarestia,DESM,Algae,#c8ead3,158,-500,-6,3,-8,-0.2
+P1,SN,Anemones,Anemones,anemone,Predators,#facecc,30,-367,-5,7,-6,-0.2
+P4,SN,Bat Stars,Patiria,patiria,Predators,#facecc,245,-367,-3,7,-4,0.2
+F1,SN,Bivalves,Bivalves,bivalve,FilterFeeders,#a980b2,650,-400,1,7,-5,-0.2
+A1,SN,Brown Algae,Other Browns,brownalgae,Algae,#c8ead3,90,-500,-4,3,1.5,-1
+A5,BC,Bull Kelp,Nereocystis,NEREO,Algae,#c8ead3,430,-500,-4,3,-9,0.2
+D2,BC,California Cucumbers,Parastichopus,PARA,Detritivores,#988474,520,-400,2,5,-5,0.2
+D2,SN,California Cucumbers,Parastichopus,parastichopus,Detritivores,#988474,520,-400,2,5,-8,0.2
+A2,SN,Chainbladder Kelp,Cystoseira,cystoseira,Algae,#c8ead3,20,-500,-3,3,-4,-0.2
+E1,BC,ENSO,ENSO,ENSO,Abiotic,#cad4e8,999,-999,0,1,4,0
+E1,SN,ENSO,ENSO,enso,Abiotic,#cad4e8,999,-999,0,1,4,0
+A1,BC,Five-Ribbed Kelp,Costaria,COST,Algae,#c8ead3,292,-500,-7,3,-5,-0.2
+A4,BC,Giant Kelp,Macrocystis,MACRO,Algae,#c8ead3,500,-500,-3,3,0,-1
+A3,SN,Giant Kelp,Macrocystis,macrocystis,Algae,#c8ead3,500,-500,-2,3,0,-1
+P6,BC,Giant Stars,Pisaster,PISAST,Predators,#facecc,395,-367,-2,7,-6,0.2
+P5,SN,Giant Stars,Pisaster,pisaster,Predators,#facecc,395,-367,-1,7,-5,0.2
+H2,BC,Green Urchins,S. droeb,SDROEB,Herbivores,#fdd68a,283,-435,-4,5,0,0
+P2,BC,Leather Stars,Dermasterias,DERMAST,Predators,#facecc,170,-367,-6,7,-7,-0.2
+D1,BC,Other Cucumbers,Cucs,CUCUM,Detritivores,#988474,585,-400,1,5,-6,-0.2
+D1,SN,Other Cucumbers,Other Cucs,other_cucs,Detritivores,#988474,585,-400,1,5,-9,-0.2
+A3,BC,Other Kelps,Laminarias,LAMSP,Algae,#c8ead3,360,-500,-5,3,1.5,-1
+P3,BC,Other Stars,Henricia,HENRICIA,Predators,#facecc,100,-367,-5,7,-9,-0.2
+P2,SN,Other Stars,Other Stars,other_stars,Predators,#facecc,100,-367,-4,7,-7,0.2
+H4,BC,Purple Urchins,S. purp,SPURP,Herbivores,#fdd68a,358,-435,-2,5,1.5,0
+H4,SN,Purple Urchins,S. purp,s_purpuratus,Herbivores,#fdd68a,358,-435,-2,5,1,0
+P4,BC,Rainbow Stars,Orthasterias,ORTHAST,Predators,#facecc,315,-367,-4,7,-4,0.2
+H3,BC,Red Urchins,S. fransc,SFRAN,Herbivores,#fdd68a,428,-435,-3,5,-1.5,0
+H3,SN,Red Urchins,S. fransc,s_franciscanus,Herbivores,#fdd68a,428,-435,-1,5,-1,0
+REMOVED,SN,REMOVED,REMOVED,megathura,Herbivores,#fdd68a,255,-435,-3,5,-8,-0.2
+REMOVED,SN,REMOVED,REMOVED,kelletia,REMOVED,REMOVED,999,999,999,999,-3,-0.2
+P5,BC,Sea Otters,Otters,OTTER,Predators,#facecc,460,-300,-3,7,0,1
+P3,SN,Sea Otters,Otters,otters,Predators,#facecc,460,-300,-2,7,0,1
+A6,BC,Stalked Kelp,Pterygophera,PTERY,Algae,#c8ead3,-50,-500,-2,3,-7,0.2
+A6,SN,Stalked Kelp,Pterygophera,pterygophera,Algae,#c8ead3,-50,-500,-2,3,-7,0.2
+P7,BC,Sunflower Stars,Pycnopodia,PYCNO,Predators,#facecc,375,-300,-1,7,-8,0.2
+P6,SN,Sunflower Stars,Pycnopodia,pycnopodia,Predators,#facecc,375,-300,0,7,-6,0.2
+P1,BC,Turban Snails,Astrea,ASTREA,Predators,#facecc,130,-435,-7,7,-4,-0.2
+H1,SN,Turban Snails,Megastraea,megastraea,Herbivores,#fdd68a,130,-435,-4,5,-7,-0.2
+A7,BC,Understory Kelp,Understory Kelp,RAREUNDERSTORYKELP,Algae,#c8ead3,225,-500,-1,3,-1.5,-1
+A4,SN,Understory Kelp,Understory Kelp,understory_kelp,Algae,#c8ead3,225,-500,-1,3,-1.5,-1
